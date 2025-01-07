@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import Shohjahon from './components/Shohjahon'
 import Abdulaziz from './components/Abdulaziz'
+import Footer from './components/Footer'
 
 const App = () => {
 
@@ -19,6 +20,7 @@ const App = () => {
       </div>
       <Shohjahon />
       <Abdulaziz />
+      <Footer />
     </>
   )
 }
