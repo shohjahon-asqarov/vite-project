@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Abdulaziz from './components/Abdulaziz'
+import Shohjahon from './components/Shohjahon'
 
 const App = () => {
 
@@ -16,7 +16,7 @@ const App = () => {
         <span className='block text-center font-medium text-4xl'>{num}</span>
         <button onClick={increment} className='py-2 px-5 bg-blue-600 text-white rounded-md'>+</button>
       </div>
-      <Abdulaziz />
+      <Shohjahon />
     </>
   )
 }
