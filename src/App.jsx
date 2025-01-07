@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import Shohjahon from './components/Shohjahon'
 import Abdulaziz from './components/Abdulaziz'
 import Footer from './components/Footer'
-
+import kamola from './components/Kamola'
 const App = () => {
 
 
@@ -21,6 +21,7 @@ const App = () => {
       <Shohjahon />
       <Abdulaziz />
       <Footer />
+      <kamola />
     </>
   )
 }

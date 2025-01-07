@@ -1,11 +1,11 @@
 import React from 'react'
 
-const kamola = () => {
+const Kamola = () => {
   return (
     <div>
-      <h1>kamola</h1>
+      <h1>Kamola</h1>
     </div>
   )
 }
 
-export default kamola
+export default Kamola
